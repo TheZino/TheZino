@@ -1,11 +1,15 @@
 <div align = center>
   
-## Hi, I'm Simone!
+## Hi 👋, I'm Simone!
 
 I'm an Assistant Professor at University of Milano-Bicocca, working on Machine Learning and AI applied to Signal and Image Processing.
 <br>
 
-Research topics: :camera: Digital Camera Algorithms, :brain: Biomedical Signal Processing and :satellite: Remote Sensing. 
+### My research topics:
+
+:camera: Digital Camera Algorithms <br>
+:brain: Biomedical Signal Processing  <br>
+:satellite: Remote Sensing  <br>
 
 <br>
 
@@ -14,7 +18,6 @@ Research topics: :camera: Digital Camera Algorithms, :brain: Biomedical Signal P
 [<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />](https://thezino.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/simone-zini-phd-8665b588/)
 
-<br>
 
 ### Contact me:
 📧 Email: [simone.zini@unimib.it](mailto:simone.zini@unimib.it)
